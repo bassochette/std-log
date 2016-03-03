@@ -1,0 +1,17 @@
+{
+  "name": "std-log",
+  "version": "0.0.1",
+  "description": "Log to stdout or stderr",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "log",
+    "unix",
+    "stdout",
+    "stderr"
+  ],
+  "author": "Julien Prugne",
+  "license": "MIT"
+}
