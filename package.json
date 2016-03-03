@@ -1,17 +1,25 @@
 {
   "name": "std-log",
-  "version": "0.0.1",
-  "description": "Log to stdout or stderr",
+  "version": "1.0.0",
+  "description": "A simple logger for node wirting to stdout or stderr",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassochette/std-log.git"
   },
   "keywords": [
     "log",
-    "unix",
+    "stderr",
     "stdout",
-    "stderr"
+    "unix"
   ],
   "author": "Julien Prugne",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bassochette/std-log/issues"
+  },
+  "homepage": "https://github.com/bassochette/std-log#readme"
 }
